@@ -3,7 +3,7 @@
 int main()
 {
 	int i,arr[]={2,1,4,7,6,3}, len=6;
-	int k=3; //deleting index
+	int k=3; //deleting element position
 	for(i=0;i<len;i++)
 	{
 		printf("arr[%d]=%d",i,arr[i]);
